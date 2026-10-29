@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# ESP-IDF
+build/
+managed_components/
+sdkconfig.old
+dependencies.lock
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+*.swp
